@@ -1,0 +1,60 @@
+WARNING: no script file ../lexicon/tetris_lexicon.txt.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+tetris_lexic    268979     268979     268979     268979
+    dict-tri    268979     268979     268979     268979
+
+268979 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. th    :  7884
+  2. r     : 93297
+  3. iy    : 72776
+  4. d     : 66010
+  5. sp    : 268977
+  6. ah    : 147725
+  7. ey    : 26539
+  8. z     : 65363
+  9. b     : 42507
+ 10. aa    : 52452
+ 11. k     : 81307
+ 12. ao    : 23834
+ 13. t     : 96544
+ 14. g     : 28144
+ 15. oy    :  2838
+ 16. n     : 124174
+ 17. l     : 100958
+ 18. m     : 59768
+ 19. ay    : 21120
+ 20. ow    : 37543
+ 21. s     : 101793
+ 22. p     : 40399
+ 23. eh    : 53803
+ 24. er    : 54937
+ 25. uw    : 21435
+ 26. w     : 19141
+ 27. dh    :  1499
+ 28. jh    : 12826
+ 29. ih    : 101098
+ 30. ng    : 18680
+ 31. v     : 22486
+ 32. hh    : 18612
+ 33. f     : 27610
+ 34. zh    :  1033
+ 35. ae    : 44826
+ 36. sh    : 16223
+ 37. aw    :  6723
+ 38. y     : 10684
+ 39. ch    : 10850
+ 40. uh    :  5099
+ 41. e     :     6
+ 42. j     :     2
+ 43. a     :     8
+ 44. u     :     4
+ 45. i     :     4
+ 46. sil   :     2
+
+Dictionary dict-tri created

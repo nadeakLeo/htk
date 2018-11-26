@@ -1,0 +1,30 @@
+% NS_B
+<s>     sil
+
+% NS_E
+</s>    sil
+
+% MULAI_V
+MULAI   m u l a i
+
+% GESER_V
+GESER   g e s e r
+
+% PUTAR_V
+PUTAR   p u t a r
+
+% ARAH_V
+KIRI    k i r i
+KANAN   k a n a n
+
+% JEDA_V
+JEDA    j e d a
+
+% LANJUT_V
+LANJUT  l a n j u t
+
+% SELESAI_V
+SELESAI s e l e s a i
+
+% KELUAR_V
+KELUAR  k e l u a r

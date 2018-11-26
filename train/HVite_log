@@ -1,0 +1,112 @@
+HVite -A -D -T 1 -l * -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I words.mlf -S train.scp dict monophones1 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+Read 17 physical / 17 logical HMMs
+Label file will be used to align each file
+Aligning File: train/mfcc/sample1.mfcc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END GESER KIRI SENT-END  ==  [155 frames] -59.0642 [Ac=-9154.9 LM=0.0] (Act=8.3)
+Aligning File: train/mfcc/sample2.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END JEDA SENT-END  ==  [58 frames] -58.7632 [Ac=-3408.3 LM=0.0] (Act=6.0)
+Aligning File: train/mfcc/sample3.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END KELUAR SENT-END  ==  [90 frames] -59.7306 [Ac=-5375.8 LM=0.0] (Act=8.2)
+Aligning File: train/mfcc/sample4.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END MULAI SENT-END  ==  [90 frames] -57.0019 [Ac=-5130.2 LM=0.0] (Act=8.3)
+Aligning File: train/mfcc/sample5.mfcc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END PUTAR KANAN SENT-END  ==  [147 frames] -57.3356 [Ac=-8428.3 LM=0.0] (Act=9.8)
+Aligning File: train/mfcc/sample6.mfcc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END PUTAR KIRI SENT-END  ==  [138 frames] -59.7381 [Ac=-8243.9 LM=0.0] (Act=8.6)
+Aligning File: train/mfcc/sample7.mfcc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END GESER KANAN SENT-END  ==  [133 frames] -58.6364 [Ac=-7798.6 LM=0.0] (Act=8.5)
+Aligning File: train/mfcc/sample8.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END JEDA SENT-END  ==  [69 frames] -58.9631 [Ac=-4068.5 LM=0.0] (Act=8.2)
+Aligning File: train/mfcc/sample9.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END KELUAR SENT-END  ==  [105 frames] -57.4675 [Ac=-6034.1 LM=0.0] (Act=10.0)
+Aligning File: train/mfcc/sample10.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END LANJUT SENT-END  ==  [53 frames] -62.3721 [Ac=-3305.7 LM=0.0] (Act=6.2)
+Aligning File: train/mfcc/sample11.mfcc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END PUTAR KANAN SENT-END  ==  [179 frames] -55.9056 [Ac=-10007.1 LM=0.0] (Act=8.1)
+Aligning File: train/mfcc/sample12.mfcc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END PUTAR KIRI SENT-END  ==  [119 frames] -58.4015 [Ac=-6949.8 LM=0.0] (Act=8.8)
+Aligning File: train/mfcc/sample13.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END SELESAI SENT-END  ==  [76 frames] -59.0054 [Ac=-4484.4 LM=0.0] (Act=7.8)
+Aligning File: train/mfcc/sample14.mfcc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END GESER KANAN SENT-END  ==  [127 frames] -59.8782 [Ac=-7604.5 LM=0.0] (Act=7.2)
+Aligning File: train/mfcc/sample15.mfcc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END GESER KIRI SENT-END  ==  [127 frames] -61.8366 [Ac=-7853.2 LM=0.0] (Act=7.8)
+Aligning File: train/mfcc/sample16.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END KELUAR SENT-END  ==  [114 frames] -57.9429 [Ac=-6605.5 LM=0.0] (Act=8.5)
+Aligning File: train/mfcc/sample17.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END LANJUT SENT-END  ==  [79 frames] -59.4849 [Ac=-4699.3 LM=0.0] (Act=6.1)
+Aligning File: train/mfcc/sample18.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END MULAI SENT-END  ==  [240 frames] -53.9702 [Ac=-12952.8 LM=0.0] (Act=7.9)
+Aligning File: train/mfcc/sample19.mfcc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END PUTAR KIRI SENT-END  ==  [127 frames] -59.2025 [Ac=-7518.7 LM=0.0] (Act=8.5)
+Aligning File: train/mfcc/sample20.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END SELESAI SENT-END  ==  [127 frames] -59.9309 [Ac=-7611.2 LM=0.0] (Act=6.1)
+Aligning File: train/mfcc/sample21.mfcc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END GESER KANAN SENT-END  ==  [82 frames] -60.5545 [Ac=-4965.5 LM=0.0] (Act=7.7)
+Aligning File: train/mfcc/sample22.mfcc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END GESER KIRI SENT-END  ==  [94 frames] -64.6704 [Ac=-6079.0 LM=0.0] (Act=8.1)
+Aligning File: train/mfcc/sample23.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END JEDA SENT-END  ==  [40 frames] -59.7852 [Ac=-2391.4 LM=0.0] (Act=6.2)
+Aligning File: train/mfcc/sample24.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END LANJUT SENT-END  ==  [46 frames] -67.0212 [Ac=-3083.0 LM=0.0] (Act=6.6)
+Aligning File: train/mfcc/sample25.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END MULAI SENT-END  ==  [53 frames] -59.7428 [Ac=-3166.4 LM=0.0] (Act=9.2)
+Aligning File: train/mfcc/sample26.mfcc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END PUTAR KANAN SENT-END  ==  [75 frames] -59.7070 [Ac=-4478.0 LM=0.0] (Act=7.6)
+Aligning File: train/mfcc/sample27.mfcc
+Created lattice with 3 nodes / 2 arcs from label file
+SENT-END SELESAI SENT-END  ==  [53 frames] -61.2406 [Ac=-3245.8 LM=0.0] (Act=10.5)
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+                  NUMCEPS                       12
+                  CEPLIFTER                     22
+                  NUMCHANS                      26
+                  PREEMCOEF               0.970000
+                  USEHAMMING                  TRUE
+                  WINDOWSIZE         250000.000000
+                  SAVEWITHCRC                 TRUE
+                  SAVECOMPRESSED              TRUE
+                  TARGETRATE         100000.000000
+                  TARGETKIND          MFCC_0_D_N_Z
+

@@ -1,0 +1,27 @@
+*/sample1 GESER KIRI
+*/sample2 JEDA
+*/sample3 KELUAR
+*/sample4 MULAI
+*/sample5 PUTAR KANAN
+*/sample6 PUTAR KIRI
+*/sample7 GESER KANAN
+*/sample8 JEDA
+*/sample9 KELUAR
+*/sample10 LANJUT
+*/sample11 PUTAR KANAN
+*/sample12 PUTAR KIRI
+*/sample13 SELESAI
+*/sample14 GESER KANAN
+*/sample15 GESER KIRI
+*/sample16 KELUAR
+*/sample17 LANJUT
+*/sample18 MULAI
+*/sample19 PUTAR KIRI
+*/sample20 SELESAI
+*/sample21 GESER KANAN
+*/sample22 GESER KIRI
+*/sample23 JEDA
+*/sample24 LANJUT
+*/sample25 MULAI
+*/sample26 PUTAR KANAN
+*/sample27 SELESAI

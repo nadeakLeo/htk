@@ -1,0 +1,3 @@
+$perintah = MULAI | JEDA | LANJUT | SELESAI | KELUAR;
+$arah = KIRI | KANAN;
+( SENT-START (GESER <$arah> | PUTAR <$arah> | <$perintah>) SENT-END)

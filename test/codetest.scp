@@ -1,0 +1,9 @@
+test/baso_geser_kanan.wav mfcc/test1.mfc
+test/baso_lanjut.wav mfcc/test2.mfc
+test/baso_selesai.wav mfcc/test3.mfc
+test/hilmi_geser_kiri.wav mfcc/test4.mfc
+test/hilmi_mulai.wav mfcc/test5.mfc
+test/leo_jeda.wav mfcc/test6.mfc
+test/leo_putar_kanan.wav mfcc/test7.mfc
+test/naufal_keluar.wav mfcc/test8.mfc
+test/naufal_putar_kiri.wav mfcc/test9.mfc
